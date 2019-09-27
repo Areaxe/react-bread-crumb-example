@@ -1,0 +1,16 @@
+.bread-crumb{
+    background-color: #fff;
+    border-bottom: solid 1px #ccc;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    padding: 10px;
+    color: #333;
+}
+
+.bread-crumb a{
+    color: #0366d6;
+    text-decoration: none;
+}
+
+.bread-crumb a:hover{
+    text-decoration: underline;
+}
